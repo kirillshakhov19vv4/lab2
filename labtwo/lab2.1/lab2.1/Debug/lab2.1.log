@@ -1,0 +1,4 @@
+﻿  lab2.1.cpp
+C:\Users\Кирилл\source\repos\lab2.1\lab2.1\lab2.1.cpp(132,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Кирилл\source\repos\lab2.1\lab2.1\lab2.1.cpp(133,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2.1.vcxproj -> C:\Users\Кирилл\source\repos\lab2.1\Debug\lab2.1.exe
